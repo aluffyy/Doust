@@ -1,8 +1,8 @@
 
 **Doust: Unleash Your Creativity with Gemini AI**
 
-
-Doust is an Android app powered by the cutting-edge capabilities of Gemini Pro and Gemini Vision AI models. It allows you to fuse your imagination with powerful AI models to create unique and captivating outputs.
+Well I had a friend who used to say "Doust" to his friends. 
+Doust is an Android app powered by the cutting-edge capabilities of Gemini Pro and Gemini Vision AI models. It allows you to fuse your imagination with powerful AI models to create unique and captivating outputs. 
 
 **Key Features:**
 
