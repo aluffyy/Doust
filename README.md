@@ -18,6 +18,17 @@ Creative writers and artists looking to explore new avenues for inspiration.
 Anyone curious about the possibilities of AI-powered content creation.
 Developers interested in integrating Gemini AI models into their Android apps.
 
+Technologies used in the project:
+
+**MVVM
+Clean Architecture
+MVI
+Retrofit
+Room
+Dagger-Hilt
+Material3
+Jetpack Compose**
+
 **Stay tuned:**
 
 We're constantly adding new features and functionalities to Doust. Follow us for exciting updates!
